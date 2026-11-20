@@ -3,7 +3,7 @@ PROGETTO 11/9
 COS'È PROGETTO 11/9
 Progetto 11/9 è un videogioco d'azione, sopravvivenza e inseguimento in 2D con visuale dall'alto e stile grafico pixel art.
 Il titolo nasce come una rivisitazione videoludica ironica e sopra le righe di un episodio realmente accaduto, trasformato in un'esperienza frenetica fatta di fughe, accerchiamenti, nascondigli e scontri diretti in ambienti chiusi.
-Ogni partita dura 5 minuti e mette di fronte due fazioni opposte in una lotta continua per il punteggio e la sopravvivenza, dove tempismo, riflessi e conoscenza della mappa fanno la differenza.
+Ogni partita dura 5 minuti continua per il punteggio e la sopravvivenza, dove tempismo, riflessi e conoscenza della mappa fanno la differenza.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 RUOLI GIOCABILI
 All'inizio di ogni partita puoi scegliere da che parte stare, affrontando l'esperienza da due prospettive completamente diverse:
